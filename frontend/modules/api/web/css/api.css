@@ -1,0 +1,15 @@
+.api-container {
+    font-size: 17px;
+}
+
+.main-title {
+    font-weight: 600;
+    font-size: 24px;
+    margin-bottom: 25px;
+}
+
+.sub-title {
+    font-size: 18px;
+    font-weight: 600;
+    padding: 15px;
+}
